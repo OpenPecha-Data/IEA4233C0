@@ -1,0 +1,160 @@
+id: IEA4233C0
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-05T20:19:46.695322'
+last_modified: '2022-06-05T20:19:46.695327'
+parser: null
+source_metadata:
+  title: Trulshik Rinpoche Series
+  language: es
+  description: Texts by and about Kyabje Trulshik Rinpoche, Ngawang Chökyi Lodrö ('khrul
+    zhig ngag dbang chos kyi blo gros, 1924–2011), one of the teachers of His Holiness
+    the Fourteenth Dalai Lama.
+  volume:
+    f4A9B:
+      title: Advice for Retreat
+      base_file: f4A9B.txt
+      order: 1
+      parent: Advice
+    fA4B2:
+      title: Advice for Tenzin Jamchen
+      base_file: fA4B2.txt
+      order: 2
+      parent: Advice
+    fF87A:
+      title: Advice in Four Lines
+      base_file: fF87A.txt
+      order: 3
+      parent: Advice
+    fF9A4:
+      title: A Prayer for Translators
+      base_file: fF9A4.txt
+      order: 4
+      parent: Aspiration Prayers
+    f6E75:
+      title: A Prayer for the Spread of Kyabje Dilgo Khyentse Rinpoche’s Termas
+      base_file: f6E75.txt
+      order: 5
+      parent: Aspiration Prayers
+    f635D:
+      title: Prayer of the View, Meditation and Conduct
+      base_file: f635D.txt
+      order: 6
+      parent: Aspiration Prayers
+    f1446:
+      title: Profound Prayer of Aspiration
+      base_file: f1446.txt
+      order: 7
+      parent: Aspiration Prayers
+    fE387:
+      title: 'The Quintessential Blessing: A Guru Yoga'
+      base_file: fE387.txt
+      order: 8
+      parent: Guru Yoga
+    f3AC4:
+      title: 'Granting the Wish for Immortality: A Prayer for the Long Life of Dzarong
+        Trulshik Rinpoche, the Representative of Guru Rinpoche'
+      base_file: f3AC4.txt
+      order: 9
+      parent: Long Life Prayers
+    fAAFF:
+      title: Long Life Prayer for Alak Zenkar Rinpoche
+      base_file: fAAFF.txt
+      order: 10
+      parent: Long Life Prayers
+    f149B:
+      title: Long Life Prayer for Kyabje Dzarong Trulshik Rinpoche
+      base_file: f149B.txt
+      order: 11
+      parent: Long Life Prayers
+    fDAAA:
+      title: Long Life Prayer for Lodi Gyari Rinpoche
+      base_file: fDAAA.txt
+      order: 12
+      parent: Long Life Prayers
+    f624F:
+      title: Long Life Prayer for Mayum Tsering Wangmo
+      base_file: f624F.txt
+      order: 13
+      parent: Long Life Prayers
+    fE545:
+      title: Prayer for the Long Life of Chökyi Nyima Rinpoche
+      base_file: fE545.txt
+      order: 14
+      parent: Long Life Prayers
+    f88E7:
+      title: Prayer for the Long Life of Dilgo Khyentsé II of Shechen, Urgyen Tenzin
+        Jigme Lhundrup
+      base_file: f88E7.txt
+      order: 15
+      parent: Long Life Prayers
+    fE634:
+      title: Prayer for the Long Life of His Holiness the Fourteenth Dalai Lama
+      base_file: fE634.txt
+      order: 16
+      parent: Long Life Prayers
+    fF2D5:
+      title: Prayer for the Long Life of Sogyal Rinpoche—chimé kunnyé
+      base_file: fF2D5.txt
+      order: 17
+      parent: Long Life Prayers
+    f05C2:
+      title: Prayer for the Long Life of Sogyal Rinpoche—sönam jewé
+      base_file: f05C2.txt
+      order: 18
+      parent: Long Life Prayers
+    fF66B:
+      title: Prayer for the Long Life of Taklung Tsetrul Rinpoche
+      base_file: fF66B.txt
+      order: 19
+      parent: Long Life Prayers
+    fB590:
+      title: The Attainment of Immortality
+      base_file: fB590.txt
+      order: 20
+      parent: Long Life Prayers
+    f204E:
+      title: A Homage to His Holiness the Dalai Lama
+      base_file: f204E.txt
+      order: 21
+      parent: Praise
+    fF7E5:
+      title: Verses of Homage
+      base_file: fF7E5.txt
+      order: 22
+      parent: Praise
+    f1264:
+      title: Verses of Homage to the Buddhas and Bodhisattvas Together with their
+        Mantras
+      base_file: f1264.txt
+      order: 23
+      parent: Praise
+    f66F6:
+      title: A Record of the Successive Incarnations
+      base_file: f66F6.txt
+      order: 24
+      parent: Prayers
+    f1936:
+      title: 'Gateway for the Faithful: A Supplication Recalling the Lives and Liberation
+        of Kyabje Trulshik Rinpoche, Ngawang Chökyi Lodrö'
+      base_file: f1936.txt
+      order: 25
+      parent: Prayers
+    fB783:
+      title: A Brief Daily Practice of Damdrip Nyepa Kunsel
+      base_file: fB783.txt
+      order: 26
+      parent: Sādhanas
+    f6ABD:
+      title: Prayer for the Swift Rebirth of Kyabjé Trulshik Rinpoche
+      base_file: f6ABD.txt
+      order: 27
+      parent: Swift Rebirth Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
